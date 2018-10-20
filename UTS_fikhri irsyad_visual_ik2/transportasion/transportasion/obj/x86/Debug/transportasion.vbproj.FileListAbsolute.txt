@@ -1,0 +1,9 @@
+D:\UTS_fikhri irsyad_ik2\transportasion\transportasion\bin\Debug\transportasion.exe
+D:\UTS_fikhri irsyad_ik2\transportasion\transportasion\bin\Debug\transportasion.pdb
+D:\UTS_fikhri irsyad_ik2\transportasion\transportasion\bin\Debug\transportasion.xml
+D:\UTS_fikhri irsyad_ik2\transportasion\transportasion\obj\x86\Debug\transportasion.Form1.resources
+D:\UTS_fikhri irsyad_ik2\transportasion\transportasion\obj\x86\Debug\transportasion.Resources.resources
+D:\UTS_fikhri irsyad_ik2\transportasion\transportasion\obj\x86\Debug\transportasion.vbproj.GenerateResource.Cache
+D:\UTS_fikhri irsyad_ik2\transportasion\transportasion\obj\x86\Debug\transportasion.exe
+D:\UTS_fikhri irsyad_ik2\transportasion\transportasion\obj\x86\Debug\transportasion.xml
+D:\UTS_fikhri irsyad_ik2\transportasion\transportasion\obj\x86\Debug\transportasion.pdb
