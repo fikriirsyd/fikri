@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Config>
+  <dbconfig>
+    <Hostname>localhost</Hostname>
+    <DbName>UAS_fikhri</DbName>
+    <DbUser>sa</DbUser>
+    <DbPaswword>admin</DbPaswword>
+  </dbconfig>
+</Config>

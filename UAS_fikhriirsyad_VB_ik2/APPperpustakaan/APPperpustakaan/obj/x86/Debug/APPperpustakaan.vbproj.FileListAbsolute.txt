@@ -1,0 +1,15 @@
+D:\UAS_fikhriirsyad_VB_ik2\APPperpustakaan\APPperpustakaan\obj\x86\Debug\APPperpustakaan.Form1.resources
+D:\UAS_fikhriirsyad_VB_ik2\APPperpustakaan\APPperpustakaan\obj\x86\Debug\APPperpustakaan.Resources.resources
+D:\UAS_fikhriirsyad_VB_ik2\APPperpustakaan\APPperpustakaan\obj\x86\Debug\APPperpustakaan.vbproj.GenerateResource.Cache
+D:\UAS_fikhriirsyad_VB_ik2\APPperpustakaan\APPperpustakaan\bin\Debug\APPperpustakaan.exe
+D:\UAS_fikhriirsyad_VB_ik2\APPperpustakaan\APPperpustakaan\bin\Debug\APPperpustakaan.pdb
+D:\UAS_fikhriirsyad_VB_ik2\APPperpustakaan\APPperpustakaan\bin\Debug\APPperpustakaan.xml
+D:\UAS_fikhriirsyad_VB_ik2\APPperpustakaan\APPperpustakaan\obj\x86\Debug\APPperpustakaan.exe
+D:\UAS_fikhriirsyad_VB_ik2\APPperpustakaan\APPperpustakaan\obj\x86\Debug\APPperpustakaan.xml
+D:\UAS_fikhriirsyad_VB_ik2\APPperpustakaan\APPperpustakaan\obj\x86\Debug\APPperpustakaan.pdb
+D:\UAS_fikhriirsyad_VB_ik2\APPperpustakaan\APPperpustakaan\obj\x86\Debug\APPperpustakaan.Login.resources
+D:\UAS_fikhriirsyad_VB_ik2\APPperpustakaan\APPperpustakaan\obj\x86\Debug\APPperpustakaan.cfgkoneksi.resources
+D:\UAS_fikhriirsyad_VB_ik2\APPperpustakaan\APPperpustakaan\obj\x86\Debug\APPperpustakaan.MDI.resources
+L:\UAS_fikhriirsyad_VB_ik2\APPperpustakaan\APPperpustakaan\obj\x86\Debug\APPperpustakaan.exe
+L:\UAS_fikhriirsyad_VB_ik2\APPperpustakaan\APPperpustakaan\obj\x86\Debug\APPperpustakaan.xml
+L:\UAS_fikhriirsyad_VB_ik2\APPperpustakaan\APPperpustakaan\obj\x86\Debug\APPperpustakaan.pdb
